@@ -14,7 +14,7 @@
   $request = "";
 
   if (isset($_POST['q'])) {
-    $DEVELOPER_KEY = 'AIzaSyC2x7UoxPlP4dGtHjBQHZqdaP9RgutX_lA';
+    $DEVELOPER_KEY = 'MY_KEY';
     $client = new Google_Client();
     $client->setDeveloperKey($DEVELOPER_KEY);
     
