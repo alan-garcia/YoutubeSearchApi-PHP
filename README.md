@@ -1,3 +1,3 @@
 # YoutubeSearchApi
 
-Ejemplo básico de un buscador de videos de Youtube mediante "Youtube Data API", utilizando PHP.
+Ejemplo básico de un buscador de videos de Youtube a través de "**Youtube Data API**", utilizando PHP.
