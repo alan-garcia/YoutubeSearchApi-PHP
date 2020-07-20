@@ -1,0 +1,17 @@
+#searchContainer {
+  display: flex;
+}
+
+#q,
+.searchButton {
+  border-radius: 0;
+}
+
+.searchButton {
+  border: none;
+  width: 110px;
+}
+
+.searchButton:hover {
+  transition: all .4s;
+}
